@@ -5,6 +5,8 @@ Contributing
 
 Contributing are welcom
 
+You can improve the feature engineering, add new classification algorithms
+
 
 ## License
 
