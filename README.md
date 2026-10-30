@@ -1,6 +1,11 @@
 # Beautiful soap to read data from a site
 
 
+Contributing
+
+Contributing are welcom
+
+
 ## License
 
 This project is licensed under the **MIT License**.
