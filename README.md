@@ -1,11 +1,11 @@
 # Beautiful soap to read data from a site
 
 
-Contributing
+## Contributing
 
-Contributing are welcom
+Contributions are welcome.
 
-You can improve the feature engineering, add new classification algorithms
+You can improve the feature engineering, add new classification algorithms, improve the evaluation process, or add additional visualizations to the project.
 
 
 ## License
