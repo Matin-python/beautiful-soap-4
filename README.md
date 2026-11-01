@@ -1,5 +1,9 @@
 # Beautiful soap to read data from a site
 
+This library is used to read a data from different sites. 
+
+There is other way to read data such as using request but this library is a great way to read it organized.
+
 
 ## Contributing
 
