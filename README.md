@@ -5,6 +5,11 @@ This library is used to read a data from different sites.
 There is other way to read data such as using request but this library is a great way to read it organized.
 
 
+## how to run
+
+install the library
+
+
 ## how to install
 
 You need to install the following library and use it
