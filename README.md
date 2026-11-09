@@ -68,6 +68,13 @@ jupyter notebook
 4. Run the notebook cells to retrieve and extract information from the target webpage.
 
 
+## Limitations
+
+- Extracted information depends on the HTML structure of the target website.
+- Some websites load content dynamically using JavaScript.
+- Website structures and CSS classes may change over time.
+- Some websites restrict automated requests or require additional authentication.
+
 ## new features
 
 
