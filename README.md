@@ -35,15 +35,18 @@ The project provides a starting point for collecting and processing data from we
 5. Find specific HTML elements using tags and CSS classes.
 6. Extract and display the selected information.
 
+
+## Installation
+
+Install the required libraries:
+
+```bash
+pip install requests beautifulsoup4
+```
+
 ## how to run
 
 install the library
-
-
-## how to install
-
-You need to install the following library and use it
-pip install beautifulsoap4
 
 
 ## new features
