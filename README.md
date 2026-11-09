@@ -1,8 +1,8 @@
-# Beautiful soap to read data from a site
+# Web Scraper
 
-This library is used to read a data from different sites. 
+A simple Python web scraping project that uses **Requests** and **BeautifulSoup** to retrieve, parse, and extract information from web pages.
 
-There is other way to read data such as using request but this library is a great way to read it organized.
+
 
 ## features
 read data from different site
