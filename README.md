@@ -9,8 +9,14 @@ This project demonstrates the fundamentals of web scraping with Python. It sends
 The project provides a starting point for collecting and processing data from websites.
 
 
-## features
-read data from different site
+## Features
+
+- Retrieve webpage content using HTTP GET requests.
+- Parse HTML documents using BeautifulSoup.
+- Find HTML elements by their tags and CSS classes.
+- Extract text from selected webpage elements.
+- Display extracted information in the terminal or Jupyter Notebook.
+
 
 ## how to run
 
