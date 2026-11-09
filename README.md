@@ -2,6 +2,11 @@
 
 A simple Python web scraping project that uses **Requests** and **BeautifulSoup** to retrieve, parse, and extract information from web pages.
 
+## Overview
+
+This project demonstrates the fundamentals of web scraping with Python. It sends HTTP requests to websites, retrieves their HTML content, and extracts specific information using HTML tags and CSS classes.
+
+The project provides a starting point for collecting and processing data from websites.
 
 
 ## features
