@@ -44,9 +44,28 @@ Install the required libraries:
 pip install requests beautifulsoup4
 ```
 
-## how to run
 
-install the library
+## How to Run
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/Matin-python/Web-Scraper.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd Web-Scraper
+```
+
+3. Open the Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+4. Run the notebook cells to retrieve and extract information from the target webpage.
 
 
 ## new features
