@@ -17,6 +17,7 @@ The project provides a starting point for collecting and processing data from we
 - Extract text from selected webpage elements.
 - Display extracted information in the terminal or Jupyter Notebook.
 
+
 ## Technologies
 
 - **Python** – Main programming language.
@@ -24,6 +25,15 @@ The project provides a starting point for collecting and processing data from we
 - **BeautifulSoup4** – Parsing HTML and extracting information.
 - **Jupyter Notebook** – Writing and executing the code.
 
+
+## How It Works
+
+1. Specify the URL of the target webpage.
+2. Send an HTTP GET request using Requests.
+3. Retrieve the HTML content of the webpage.
+4. Parse the HTML using BeautifulSoup.
+5. Find specific HTML elements using tags and CSS classes.
+6. Extract and display the selected information.
 
 ## how to run
 
