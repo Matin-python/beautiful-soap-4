@@ -75,7 +75,14 @@ jupyter notebook
 - Website structures and CSS classes may change over time.
 - Some websites restrict automated requests or require additional authentication.
 
-## new features
+
+## Future Improvements
+
+- Extract structured information such as titles, prices, and descriptions.
+- Store extracted data in Pandas DataFrames.
+- Export collected information to CSV or Excel files.
+- Implement error handling for failed HTTP requests.
+- Support more flexible data extraction and filtering.
 
 
 ## Contributing
