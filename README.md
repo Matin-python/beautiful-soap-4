@@ -8,7 +8,6 @@ This project demonstrates the fundamentals of web scraping with Python. It sends
 
 The project provides a starting point for collecting and processing data from websites.
 
-
 ## Features
 
 - Retrieve webpage content using HTTP GET requests.
@@ -17,14 +16,12 @@ The project provides a starting point for collecting and processing data from we
 - Extract text from selected webpage elements.
 - Display extracted information in the terminal or Jupyter Notebook.
 
-
 ## Technologies
 
 - **Python** – Main programming language.
 - **Requests** – Sending HTTP requests and retrieving webpage content.
 - **BeautifulSoup4** – Parsing HTML and extracting information.
 - **Jupyter Notebook** – Writing and executing the code.
-
 
 ## How It Works
 
@@ -35,7 +32,6 @@ The project provides a starting point for collecting and processing data from we
 5. Find specific HTML elements using tags and CSS classes.
 6. Extract and display the selected information.
 
-
 ## Installation
 
 Install the required libraries:
@@ -43,7 +39,6 @@ Install the required libraries:
 ```bash
 pip install requests beautifulsoup4
 ```
-
 
 ## How to Run
 
@@ -67,14 +62,12 @@ jupyter notebook
 
 4. Run the notebook cells to retrieve and extract information from the target webpage.
 
-
 ## Limitations
 
 - Extracted information depends on the HTML structure of the target website.
 - Some websites load content dynamically using JavaScript.
 - Website structures and CSS classes may change over time.
 - Some websites restrict automated requests or require additional authentication.
-
 
 ## Future Improvements
 
