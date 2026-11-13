@@ -76,6 +76,7 @@ Web-Scraper/
 │
 ├── Web-Scraper.ipynb
 ├── README.md
+├── LICENSE.md
 └── requirements.txt
 ```
 
