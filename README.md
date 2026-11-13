@@ -69,6 +69,16 @@ jupyter notebook
 - Website structures and CSS classes may change over time.
 - Some websites restrict automated requests or require additional authentication.
 
+## Project Structure
+
+```text
+Web-Scraper/
+│
+├── Web-Scraper.ipynb
+├── README.md
+└── requirements.txt
+```
+
 ## Future Improvements
 
 - Extract structured information such as titles, prices, and descriptions.
